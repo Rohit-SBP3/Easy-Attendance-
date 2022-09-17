@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Easy Attendance</string>
+    <string name="add_new_class">ADD NEW CLASS</string>
+    <string name="class_name">Class name</string>
+    <string name="subject_name">Subject name</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">ADD</string>
+    <string name="floating_btn">Floating_btn</string>
+    <string name="title">title</string>
+    <string name="rohit_singh">Rohit Singh</string>
+    <string name="a">A</string>
+    <string name="_01">01</string>
+    <string name="attendance_sheet">Attendance Sheet</string>
+    <string name="change_date">Change Date</string>
+    <string name="add_student">Add Student</string>
+    <string name="march_2002">march 2002</string>
+    <string name="subtitle">Subtitle</string>
+</resources>
